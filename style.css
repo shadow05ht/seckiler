@@ -1,7 +1,8 @@
-h1{
+h1 {
     color: orangered;
 }
-.Recep{
+
+.Recep {
     float: left;
     background-image: url(Recep.jpg);
     height: 100px;
@@ -11,9 +12,10 @@ h1{
     background-size: cover;
     margin: auto;
     position: relative;
-}   
-.Kemal{
-    float:right ;
+}
+
+.Kemal {
+    float: right;
     background-image: url(KeMAL.jpg);
     width: 100px;
     height: 100px;
@@ -24,7 +26,8 @@ h1{
     position: relative;
 
 }
-.Sinan{
+
+.Sinan {
     float: left;
     background-image: url(Sinan.jpg);
     height: 100px;
@@ -34,10 +37,33 @@ h1{
     background-size: cover;
     margin: auto;
     position: relative;
-}      
-p{
+}
+
+p {
     color: white;
-}   
-body{
+}
+
+body {
     background-color: black;
+}
+
+.shadow {
+    background-color: orange;
+    line-height: 30px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+.secki{
+    background-color: orange;
+    line-height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    opacity: 0.6;
+}
+#secki{
+    color: black;
 }
