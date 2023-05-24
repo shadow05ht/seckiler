@@ -1,0 +1,43 @@
+h1{
+    color: orangered;
+}
+.Recep{
+    float: left;
+    background-image: url(Recep.jpg);
+    height: 100px;
+    width: 100px;
+    border-radius: 58px;
+    border: 18px solid orange;
+    background-size: cover;
+    margin: auto;
+    position: relative;
+}   
+.Kemal{
+    float:right ;
+    background-image: url(KeMAL.jpg);
+    width: 100px;
+    height: 100px;
+    border-radius: 58px;
+    border: 18px solid orange;
+    background-size: cover;
+    margin: auto;
+    position: relative;
+
+}
+.Sinan{
+    float: left;
+    background-image: url(Sinan.jpg);
+    height: 100px;
+    width: 100px;
+    border-radius: 58px;
+    border: 18px solid orange;
+    background-size: cover;
+    margin: auto;
+    position: relative;
+}      
+p{
+    color: white;
+}   
+body{
+    background-color: black;
+}
